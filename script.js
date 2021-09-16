@@ -24,6 +24,7 @@ let seconds = 0;
 let score = 0;
 let html, numberCards, allCards, firstImage, timePass;
 
+
 // moves.textContent = numberOfMoves;
 
 const shuffle = function(array) {
